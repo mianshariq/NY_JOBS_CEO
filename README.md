@@ -1,4 +1,5 @@
 What inspired you to create this project? 
+
 There has been been a large uptick in stock market investment and trading lately. Millinalls are swarmming into apps like robinhood, TDAmeritrade and are specding majority or their savings or taking loans out to make returns. I wanted to show whether COVID has increased the risk of invetment in stocks, are there companies whiich can beat the S&P 500 interms of risk and returns.
 
 Who created the project? 
