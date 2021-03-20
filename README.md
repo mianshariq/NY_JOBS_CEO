@@ -5,7 +5,7 @@ Who created the project?
 This project was created by Shariq Mian
 
 How did you build your project?
-I used google colabratory IDE with help of pandas, numpy, sci-kit learn, seaborn and matplotlib. We also used the token provided by IEX Cloud to import the stock data. To measure risk I used the sharpe ratio, which indivates where a stock is risky or not risky compare in comparision to a popular index such as S&P500 plus risk free returns such as 30 year Treasury.
+I used google colabratory IDE with help of pandas, numpy, sci-kit learn, seaborn and matplotlib. I also used data_reader to import the stock data trough library. To measure risk I used the sharpe ratio, which indivates where a stock is risky or not risky compare in comparision to a popular index such as S&P500 plus risk free returns such as 30 year Treasury.
 
 Tag the technologies you used throughout your project. 
 
